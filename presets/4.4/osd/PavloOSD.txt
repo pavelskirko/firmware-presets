@@ -1,0 +1,23 @@
+#$ TITLE: Pavlo OSD - Analog
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: analog
+#$ AUTHOR: Pavlo Skirko
+
+
+set osd_warn_bitmask = 1785
+set osd_vbat_pos = 2497
+set osd_link_quality_pos = 2049
+set osd_rssi_dbm_pos = 2081
+set osd_flymode_pos = 2508
+set osd_vtx_channel_pos = 18842
+set osd_current_pos = 2519
+set osd_mah_drawn_pos = 2552
+set osd_altitude_pos = 2069
+set osd_warnings_pos = 2536
+set osd_avg_cell_voltage_pos = 2529
+set osd_esc_rpm_pos = 2304
+set osd_log_status_pos = 2490
+set osd_stat_bitmask = 13856
+set vcd_video_system = PAL

@@ -3620,6 +3620,21 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.4/osd/PavloOSD.txt",
+      "hash": "1fc810013807bca9f7aee001e648a9b0cb8df6cb96ed5ab02e0fe0afce71f564",
+      "title": "Pavlo OSD - Analog",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "analog"
+      ],
+      "author": "Pavlo Skirko",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/other/Street_League_motor_outputs.txt",
       "hash": "818ab0552ce3e055e2b3157551b5bc1eb31bd6c1a39ec54fb748f2cb378023e8",
       "title": "Street League Motor Output Limit Settings",
